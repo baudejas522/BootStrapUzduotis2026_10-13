@@ -1,0 +1,28 @@
+.nav-item
+{
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 100%;
+}
+
+section nav p
+{
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 100%;
+}
+
+h2
+{
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.col
+{
+    width: 178px;
+    height: 178px;
+}
